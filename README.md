@@ -9,6 +9,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cypherbold)
 [![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2011-333333?style=for-the-badge&logo=apple&logoColor=white)]
 </h4>
+![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2011-333333?style=for-the-badge&logo=apple&logoColor=white)
 
 
 
