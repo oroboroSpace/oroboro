@@ -21,8 +21,8 @@ Olá, pode me chamar de BOLD! 🇧🇷
 </h3>
 
 ```
-Estudante de Ciência da Computação pela UNIT - Centro Universitário Tiradentes, 
-sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
+Estudante de ===
+====
 ```
 ## Tecnologias que estou estudando atualmente 💻
 
@@ -34,21 +34,21 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
-- Eu tenho uma comunidade chamada Guia Dev Brasil que ajuda pessoas na área de computação. [:link:](https://linktr.ee/guiadevbrasil)
-- Tenho um repositório para ajudar e guiar pessoas na sua trilha de desenvolvimento.  [:link:](https://github.com/LegendsDEVSquad)
+- ====. [:link:](https://#)
+- Tenho um repositório para ajudar ajudar meu grupo de estudos na sua trilha de desenvolvimento.  [:link:](https://github.com/LegendsDEVSquad)
 
 - Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
 
-- Estou cursando Ciência da Computação. 💻
+- Estou cursando C. 💻
 
 ## Meus Links [:link:](https://cypherbold.github.io/cypherbold/)
 
 ## Meus dados no Github
 
-<!-- <span style="height ">
+<span style="height ">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cypherbold&show_icons=true&theme=tokyonight)
-</span> -->
+</span>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cypherbold&show_icons=true&theme=tokyonight)
 [![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=cypherbold&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/arthurspk/)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&layout=compact&theme=tokyonight) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cypherbold&layout=compact&theme=tokyonight)
