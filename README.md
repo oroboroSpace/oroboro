@@ -25,13 +25,13 @@ Estudante de ===
 ====
 ```
 ## Tecnologias que estou estudando atualmente 💻
-
+```
   - HTML
   - CSS
   - JavaScript
   - MySQL
   - Shell Script
-
+```
 ## Alguns fatos sobre mim 👨🏻‍💻
 
 - ====. [:link:](https://#)
@@ -45,9 +45,9 @@ Estudante de ===
 
 ## Meus dados no Github
 
-<h4 style="height ">
+<h4 style="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cypherbold&show_icons=true&theme=tokyonight)](https://github.com/cypherbold/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cypherbold&show_icons=true&theme=tokyonight)](https://github.com/cypherbold/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cypherbold&layout=compact&theme=tokyonight)](https://github.com/cypherbold/)
 <!-- [![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=cypherbold&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/cypherbold/) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cypherbold&layout=compact&theme=tokyonight)](https://github.com/cypherbold/)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cypherbold&layout=compact&theme=tokyonight)](https://github.com/cypherbold/) -->
 </h4>
