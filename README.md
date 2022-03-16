@@ -46,9 +46,9 @@ Estudante de ===
 ## Meus dados no Github
 
 <span style="height ">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cypherbold&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cypherbold&show_icons=true&theme=tokyonight)]
 </span>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cypherbold&show_icons=true&theme=tokyonight)
-[![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=cypherbold&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/arthurspk/)
+<!-- [![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=cypherbold&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/arthurspk/) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cypherbold&layout=compact&theme=tokyonight)
