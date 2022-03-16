@@ -39,12 +39,10 @@ Estudante de ===
 
 - Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
 
-- Estou cursando C. 💻
-
 ## Meus Links [:link:](https://cypherbold.github.io/cypherbold/)
 
 ## Meus dados no Github
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cypherbold&show_icons=true&theme=tokyonight)] (https://github.com/cypherbold/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cypherbold&show_icons=true&theme=tokyonight)](https://github.com/cypherbold/)
 <!-- [![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=cypherbold&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/cypherbold/) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cypherbold&layout=compact&theme=tokyonight)] (https://github.com/cypherbold/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cypherbold&layout=compact&theme=tokyonight)](https://github.com/cypherbold/)
