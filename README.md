@@ -6,10 +6,10 @@
 
 <hr>
 
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/arthurspk/)
+<!-- [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](#) -->
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/pablobeeboldrini/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cypherbold)
-![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2011-333333?style=for-the-badge&logo=apple&logoColor=white)
+[![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2011-333333?style=for-the-badge&logo=apple&logoColor=white)]
 </h4>
 
 
