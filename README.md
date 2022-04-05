@@ -1,6 +1,8 @@
 <h4 align="center">
   
-![matrix](https://github.com/cypherbold/cypherbold/blob/main/pixel-jeff-matrix-s.gif)
+<!-- ![matrix](https://github.com/cypherbold/cypherbold/blob/main/pixel-jeff-matrix-s.gif) -->
+![gif](https://raw.githubusercontent.com/cypherbold/cypherbold/main/assets/images/github-profile.gif)
+  
 
 <hr>
 
