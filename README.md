@@ -1,7 +1,9 @@
 <h4 align="center">
   
 <!-- ![matrix](https://github.com/cypherbold/cypherbold/blob/main/pixel-jeff-matrix-s.gif) -->
-![gif](https://raw.githubusercontent.com/cypherbold/cypherbold/main/assets/images/github-profile.gif)
+<!-- ![gif](https://raw.githubusercontent.com/cypherbold/cypherbold/main/assets/images/github-profile.gif) -->
+
+<a href="https://app.daily.dev/cypherbold"><img src="https://api.daily.dev/devcards/9f621cfca815445fb0017cd911c90d29.png?r=zgv" width="400" alt="Pablo Bee Boldrini's Dev Card"/></a>
   
 
 <hr>
