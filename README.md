@@ -1,56 +1,50 @@
-# Hi there 👋
+<h2 align="center">
+Hi there, I am Pablo Bee Boldrini
+</h2>
+<h4 align="center">
+my username in many social networks is @cypherbold, but you can call me for BOLD!
+</h4>
 
 <div align="left">
-  <a href="https://twitter.com/omBratteng">
+    <!-- Mastodon -->
+  <a href="https://mas.to/@cypherbold">
     <img
-      src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
+      src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"
+      alt="Mastodon"
     />
   </a>
-  <a href="https://www.linkedin.com/in/ombratteng/">
+  <!-- Linkedin -->
+  <a href="https://www.linkedin.com/in/PabloBeeBoldrini/">
     <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+  <a href="https://app.daily.dev/cypherbold" target="_blank">
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/omBratteng/omBratteng/devcard/devcard.svg"
+      src="https://api.daily.dev/devcards/9f621cfca815445fb0017cd911c90d29.png?r=zgv"
+      alt="Pablo Bee Boldrini's Dev Card"
     />
   </a>
 </div>
 
-## I am Ole-Martin Bratteng
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)  
+![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 
-- Developer at [The National Archives of Norway](https://www.arkivverket.no/en)
-- Loves a freshly brewed cup of coffee
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
-![Notable contributions](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/achievements.svg)
-
-[![@ombratteng's Holopin board](https://holopin.io/api/user/board?user=ombratteng)](https://holopin.io/@ombratteng)
-
-
-<h4 align="center">
-  
-<!-- ![matrix](https://github.com/cypherbold/cypherbold/blob/main/pixel-jeff-matrix-s.gif) -->
-<!-- ![gif](https://raw.githubusercontent.com/cypherbold/cypherbold/main/assets/images/github-profile.gif) -->
-
-<a href="https://app.daily.dev/cypherbold"><img src="https://api.daily.dev/devcards/9f621cfca815445fb0017cd911c90d29.png?r=zgv" width="400" alt="Pablo Bee Boldrini's Dev Card"/></a>
-  
-
-<hr>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cypherbold) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablobeeboldrini) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cypherbold) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19491245) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/cypherbold) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/CypherBOLD) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UC2JITvyJzfBNWfiPMcoBGXQ) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablobeeboldrini) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cypherbold)  
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/cypherbold) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UC2JITvyJzfBNWfiPMcoBGXQ) 
 
-<!-- [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](#) -->
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/pablobeeboldrini/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cypherbold)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cypherbold)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/cypherbold)](https://www.linkedin.com/in/pablobeeboldrini/)
 ![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2011-333333?style=for-the-badge&logo=apple&logoColor=white)
 </h4>
 
@@ -65,7 +59,7 @@ Olá, pode me chamar de BOLD! 🇧🇷
 </h3>
 
 ```
-Estudante de ===
+Estudante de Analise e Desenvolvimento de Sistemas pela VINCIT Maringa - Parana/Brazil
 ====
 ```
 ## Tecnologias que estou estudando atualmente 💻
